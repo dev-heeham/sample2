@@ -1,3 +1,4 @@
+name: Run GitHub Action Manually
 on:
   workflow_dispatch:
     inputs:
